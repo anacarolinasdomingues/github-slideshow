@@ -2,4 +2,4 @@ layout : slide
 title : " Bem-vindo ao nosso segundo slide! "
 ---
 Seu texto 
-Use a seta esquerda para voltar!
+Use a seta direita para voltar!
